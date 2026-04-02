@@ -25,3 +25,4 @@ This project was my personal way to get familiar with **JavaFX**, animations, an
 ```bash
 mvnw.cmd clean javafx:run
 ```
+Author @meggi05 — Student at Novosibirsk State Technical University (NSTU)
